@@ -36,7 +36,7 @@ $db = new PDO('mysql:host=localhost', 'root', null);
     <div class="container">
         <header>
             <img src="https://cdn.rawgit.com/mattrayner/docker-lamp/831976c022782e592b7e2758464b2a9efe3da042/docs/logo.svg" alt="Docker LAMP logo" />
-            <h2>Welcome to <a href="https://github.com/mattrayner/docker-lamp" target="_blank">Docker-Lamp</a> a.k.a mattrayner/lamp</h2>
+            <h2>Welcome to <a href="https://github.com/mattrayner/docker-lamp" target="_blank">Docker-Lamp</a> a.k.a issenur/lamp</h2>
         </header>
         <article>
             <p>
