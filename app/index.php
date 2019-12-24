@@ -5,7 +5,7 @@ $db = new PDO('mysql:host=localhost', 'root', null);
 <html lang=en>
 <head>
     <meta charset=utf-8>
-    <title>Hello World from Docker-LAMP</title>
+    <title>issenur.com</title>
 
     <style>
         @import 'https://fonts.googleapis.com/css?family=Montserrat|Raleway|Source+Code+Pro';
